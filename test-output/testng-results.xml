@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-20T14:40:02 EEST" name="Suite" finished-at="2024-09-20T14:40:07 EEST" duration-ms="5484">
+    <groups>
+    </groups>
+    <test started-at="2024-09-20T14:40:02 EEST" name="Regression Test" finished-at="2024-09-20T14:40:07 EEST" duration-ms="5484">
+      <class name="tests.UserCanPurchaseProduct">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.UserCanPurchaseProduct@ae13544]" started-at="2024-09-20T14:39:58 EEST" name="setup" finished-at="2024-09-20T14:40:02 EEST" duration-ms="3848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="UserCanLoginSuccessfully()[pri:1, instance:tests.UserCanPurchaseProduct@ae13544]" started-at="2024-09-20T14:40:02 EEST" name="UserCanLoginSuccessfully" finished-at="2024-09-20T14:40:04 EEST" duration-ms="1553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserCanLoginSuccessfully -->
+        <test-method is-config="true" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:tests.UserCanPurchaseProduct@ae13544]" started-at="2024-09-20T14:40:04 EEST" name="screenshotOnFailure" finished-at="2024-09-20T14:40:04 EEST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserCanLoginSuccessfully status=SUCCESS method=UserCanPurchaseProduct.UserCanLoginSuccessfully()[pri:1, instance:tests.UserCanPurchaseProduct@ae13544] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotOnFailure -->
+        <test-method signature="UserCanAddProductToShoppingCart()[pri:2, instance:tests.UserCanPurchaseProduct@ae13544]" started-at="2024-09-20T14:40:04 EEST" name="UserCanAddProductToShoppingCart" finished-at="2024-09-20T14:40:07 EEST" duration-ms="3879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserCanAddProductToShoppingCart -->
+        <test-method is-config="true" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:tests.UserCanPurchaseProduct@ae13544]" started-at="2024-09-20T14:40:07 EEST" name="screenshotOnFailure" finished-at="2024-09-20T14:40:07 EEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserCanAddProductToShoppingCart status=SUCCESS method=UserCanPurchaseProduct.UserCanAddProductToShoppingCart()[pri:2, instance:tests.UserCanPurchaseProduct@ae13544] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotOnFailure -->
+        <test-method is-config="true" signature="stopDriver()[pri:0, instance:tests.UserCanPurchaseProduct@ae13544]" started-at="2024-09-20T14:40:07 EEST" name="stopDriver" finished-at="2024-09-20T14:40:08 EEST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+      </class> <!-- tests.UserCanPurchaseProduct -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- Suite -->
+</testng-results>
