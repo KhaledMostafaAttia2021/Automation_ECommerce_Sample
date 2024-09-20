@@ -68,3 +68,17 @@ Please refer to the below screenshot and video.
 https://drive.google.com/file/d/17BHygXRRIAI1StPgIJ6s32w-57rkToFH/view?usp=sharing
 
 https://drive.google.com/file/d/1OMTeu5MOuYkGsHwMGM9OeHUjbS5HHFKd/view?usp=drive_link
+
+📍Steps to get Testing Report:-
+1. After running test suite, we will get file index.html under the foler "test-output"
+2. Get the url from properties and open the html file through the browser.
+3. We will get the testing report (How many tests passed and how many tests failed).
+
+   Please refer to the below screenshot.
+
+ https://drive.google.com/file/d/1Q5_tL-dy6mQJ6a4AS_8pPxzRY-wDi6N-/view?usp=drive_link
+
+
+
+
+Thank you.
